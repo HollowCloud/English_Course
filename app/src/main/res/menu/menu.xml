@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/id_first_Fragment"
+            android:icon="@drawable/ic_baseline"
+            android:checked="true"
+            android:checkable="true"
+            android:title="First"/>
+
+        <item
+            android:id="@+id/id_second_Fragment_Fragment"
+            android:icon="@drawable/ic_baseline"
+            android:checkable="true"
+            android:title="Second"/>
+
+        <item
+            android:id="@+id/id_third_Fragment"
+            android:icon="@drawable/ic_baseline"
+            android:checkable="true"
+            android:title="Third"/>
+
+    </group>
+
+
+</menu>

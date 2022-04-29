@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/ic_baseline.xml" value="0.2703125" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/ic_code.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/ic_contacts.xml" value="0.2703125" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_first_detailed.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_first_detailed2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_first_section.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_fragment_holder.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_main_three.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_second_section.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_third_section.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/fragment_first_section.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/fragment_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/fragment_welcome.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/fragmentholder.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/header_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/item_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/item_image_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/mytoolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/menu/draw_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/menu/menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
