@@ -18,8 +18,9 @@ class FirstSection : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_first_section)
 
+        //Changing Images
         val imageList = listOf<com.example.english_course.sections.Image>(
-            Image(R.drawable.f1,
+            Image(R.drawable.s1,
                 "Adjectives and Adverbs",
                 "In many languages, adjectives denoting attributes usually occur in a specific order. " +
                         "Generally, the adjective order in English is: " + "\n" + "\n" +
@@ -32,7 +33,7 @@ class FirstSection : AppCompatActivity() {
                         "Proper adjective (often nationality, other place of origin, or material)\n" + "\n" +
                         "Purpose or qualifier"),
 
-            Image(R.drawable.f2,
+            Image(R.drawable.s1,
                 "How much/How many",
                 "Much and many\n" +"\n" +
                         "We can use much and many to talk about quantities. We can also use a lot of or lots of.\n" +
@@ -41,7 +42,7 @@ class FirstSection : AppCompatActivity() {
                         "      Do you get much homework?\n" +
                         "      I've got a lot of games."),
 
-            Image(R.drawable.f3,
+            Image(R.drawable.s1,
                 "Imperatives",
                 "The most direct way of doing this is through use of the imperative, as " +
                         "the name of this verbal mood indicates. The imperative mood in English is generally" +
@@ -50,7 +51,7 @@ class FirstSection : AppCompatActivity() {
                         "    Don’t be late!" + "\n" + "\n" +
                         "    Let’s not go in, please."),
 
-            Image(R.drawable.f4,
+            Image(R.drawable.s1,
                 "Can/Can't",
                 "Modals – 'could' and 'couldn't'\n" + "\n" +
                         "We can use could and couldn't to talk about abilities in the past.\n" +
@@ -67,7 +68,7 @@ class FirstSection : AppCompatActivity() {
                         "   They couldn't speak English before they went to school."),
 
 
-            Image(R.drawable.f4,
+            Image(R.drawable.s1,
                 "Present Simple",
                 "The Present Simple tense is the most basic tense in " +
                         "English and uses the base form of the verb (except for the verb be). " +
@@ -78,7 +79,7 @@ class FirstSection : AppCompatActivity() {
                         "   John drives a taxi.\n" +
                         "   He does not drive a bus."),
 
-            Image(R.drawable.f4,
+            Image(R.drawable.s1,
                 "Past Simple",
                 "The Past Simple tense is sometimes called the \"preterite tense\". " +
                         "We can use several tenses and forms to talk about the past, " +
