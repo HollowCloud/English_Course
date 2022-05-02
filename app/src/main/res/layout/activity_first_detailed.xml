@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".sections.FirstDetailedActivity">
+    tools:context=".sections.FirstDetailedActivity"
+    android:background="@drawable/f7">
 
     <ImageView
         android:id="@+id/imageDetail"
