@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.English_Course">
         <activity
+            android:name=".ThirdVocabularyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondVocabularyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FirstVocabularyActivity"
+            android:exported="false" />
+        <activity
             android:name=".ResultActivity"
             android:exported="false" />
         <activity

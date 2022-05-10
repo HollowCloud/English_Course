@@ -29,6 +29,10 @@ class MainThreeActivity : AppCompatActivity() {
         val a2 = findViewById<Button>(R.id.btn_a_second)
         val b1 = findViewById<Button>(R.id.btn_b_first)
         val quiz = findViewById<Button>(R.id.btn_quiz)
+        val v1 = findViewById<Button>(R.id.nav_vocab_one)
+        val v2 = findViewById<Button>(R.id.nav_vocab_two)
+        val v3 = findViewById<Button>(R.id.nav_vocab_three)
+
 
         a1.setOnClickListener{
             elementary()
@@ -44,6 +48,18 @@ class MainThreeActivity : AppCompatActivity() {
 
         quiz.setOnClickListener {
             startQuiz()
+        }
+
+        v1.setOnClickListener {
+            firstVocabulary()
+        }
+
+        v2.setOnClickListener {
+            secondVocabulary()
+        }
+
+        v3.setOnClickListener {
+            thirdVocabulary()
         }
 
     }
@@ -65,6 +81,21 @@ class MainThreeActivity : AppCompatActivity() {
 
     fun startQuiz(){
         startActivity(Intent(this, QuizMainActivity::class.java))
+        finish()
+    }
+
+    fun firstVocabulary(){
+        startActivity(Intent(this, FirstVocabularyActivity::class.java))
+        finish()
+    }
+
+    fun secondVocabulary(){
+        startActivity(Intent(this, SecondVocabularyActivity::class.java))
+        finish()
+    }
+
+    fun thirdVocabulary(){
+        startActivity(Intent(this, ThirdVocabularyActivity::class.java))
         finish()
     }
 
