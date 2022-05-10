@@ -52,7 +52,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:layout_marginTop="16dp"
-                android:text="Please enter your name."
+                android:text="Please enter your temporary name."
                 android:textColor="#7A8089"
                 android:textSize="16sp" />
 
