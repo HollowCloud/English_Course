@@ -3,15 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/default_option_border_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/ic_baseline.xml" value="0.2703125" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/ic_code.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/ic_contacts.xml" value="0.2703125" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_first_detailed.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_first_detailed2.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_first_section.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_fragment_holder.xml" value="0.264" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_main_three.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_question.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_quiz_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_quiz_questions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_result.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_second_section.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/English_Course/app/src/main/res/layout/activity_third_section.xml" value="0.25416666666666665" />

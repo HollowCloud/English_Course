@@ -28,6 +28,7 @@ class MainThreeActivity : AppCompatActivity() {
         val a1 = findViewById<Button>(R.id.btn_a_first)
         val a2 = findViewById<Button>(R.id.btn_a_second)
         val b1 = findViewById<Button>(R.id.btn_b_first)
+        val quiz = findViewById<Button>(R.id.btn_quiz)
 
         a1.setOnClickListener{
             elementary()
@@ -39,6 +40,10 @@ class MainThreeActivity : AppCompatActivity() {
 
         b1.setOnClickListener {
             preIntermediate()
+        }
+
+        quiz.setOnClickListener {
+            startQuiz()
         }
 
     }
@@ -55,6 +60,11 @@ class MainThreeActivity : AppCompatActivity() {
 
     fun preIntermediate(){
         startActivity(Intent(this, ThirdSection::class.java))
+        finish()
+    }
+
+    fun startQuiz(){
+        startActivity(Intent(this, QuizMainActivity::class.java))
         finish()
     }
 
